@@ -64,3 +64,6 @@ target/
 data/
 
 vide/
+dconf/
+trained_model/
+.ipynb_checkpoints/
