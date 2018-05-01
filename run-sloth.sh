@@ -1,2 +1,2 @@
-sloth --config data/frames/sloth_config.py sloth-annot.json
+sloth --config sloth_config.py sloth-annot.json
 
