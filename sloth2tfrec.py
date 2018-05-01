@@ -20,7 +20,7 @@ LABEL_DICT =  {
     }
 
 flags = tf.app.flags
-flags.DEFINE_string('output_path', 'cards_train.tfrecord', 'Path to output TFRecord')
+flags.DEFINE_string('output_path', 'trainer/cards-train.tfrecord', 'Path to output TFRecord')
 FLAGS = flags.FLAGS
 
 
